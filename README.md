@@ -15,15 +15,36 @@
 > Luego deberás mejorar dicha solución 
 > para que sea sencilla
 
-## Tecnologías
+## 🛠 Tecnologías
 
-- **Mongo**
-- **JavaScript**
-- **Express**
-- **ReactJS**
-- **AngularJS**
-- **Mongo**
+### Frontend
+- HTML5
+- CSS3 (Flexbox, Grid, Responsive)
+- JavaScript (ES6+)
+- React (Vite, Hooks, Router)
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+- bcrypt
+
+### Base de datos
+- MongoDB
+- Mongoose
+
+### Herramientas
+- Git & GitHub
+- Netlify
+- Cloudinary
+- Insomnia
+
+### En progreso 🚀
+- AWS Cloud Practitioner
+- DevOps / DevSecOps fundamentals
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DesarrolloWebHackio)
-![Profile stats](https://github-readme-stats.vercel.app/api?username=DesarrolloWebHackio&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DesarrolloWebHackio&show_icons=true&theme=dark)
+
