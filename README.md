@@ -1,4 +1,4 @@
-# Desarrollo Web
+# Full Stack Developer
 ## Este es el perfil de Desarrollo Web
 
 ![Banner de mi cuenta](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
@@ -46,5 +46,4 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DesarrolloWebHackio&show_icons=true&theme=dark)
 
