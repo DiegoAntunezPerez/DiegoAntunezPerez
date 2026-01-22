@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-![Banner de mi cuenta](https://4kwallpapers.com/images/wallpapers/eat-sleep-code-repeat-black-background-programmer-quotes-3440x1440-5947.png)
+![Banner de mi cuenta](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)
 
 ## Gustos personales
 
