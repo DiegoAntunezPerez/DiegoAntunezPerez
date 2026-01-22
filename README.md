@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-![Banner de mi cuenta](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)
+![Banner de mi cuenta](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 
 ## Gustos personales
 
