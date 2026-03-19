@@ -8,7 +8,7 @@
 - Jugar a videojuegos 👾
 - Desarrollo web 💻
 
-> En el código cualquiera puede resolver un problema comple; mi valor reside en transformar esa complejidad en soluciones simples, legibles y elegantes.
+> En el código cualquiera puede resolver un problema complejo; mi valor reside en transformar esa complejidad en soluciones simples, legibles y elegantes.
 
 ## 🛠 Tecnologías
 
