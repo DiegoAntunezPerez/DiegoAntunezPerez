@@ -8,11 +8,11 @@
 - Jugar a videojuegos 👾
 - Desarrollo web 💻
 
-> El código siempre tiene que ser lo más simple posible
+> El código siempre tiene que ser lo más simple posible,
 > sacar soluciones complejas a problemas difíciles
-> sólo es el primer paso
-> Luego deberás mejorar dicha solución 
-> para que sea sencilla
+> sólo es el primer paso,
+> luego deberás mejorar dicha solución 
+> para que sea sencilla.
 
 ## 🛠 Tecnologías
 
